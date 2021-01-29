@@ -1,2 +1,2 @@
 # first-website
-A simple website to demonstrate hoe to use GitHub.
+A simple website to demonstrate how to use GitHub.
